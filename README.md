@@ -1,4 +1,4 @@
-# python
+# python 3.8
 
-use command in cmd
-pip install -r requirements.txt
+1. $ Scripts\activate.bat
+2. $ pip install -r requirements.txt
